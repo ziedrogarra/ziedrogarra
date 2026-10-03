@@ -1,16 +1,24 @@
-## Hi there 👋
+Oi, eu sou o Ziedro! :3
 
-<!--
-**ziedrogarra/ziedrogarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Escrevo, converso e tomo café em quantidades que preocupam meu cardiologista - é verdade. Dizem que tenho cheiro de café e de limão atrás das orelhas, mas só quem chegar perto pra confirmar hihihi
 
-Here are some ideas to get you started:
+## Curiosidades rápidas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Amo café, muito mesmo!
+- 🗣️ Trabalho com voz
+- 🎲 Jogo RPG de mesa e jogos de tabuleiro
+- ✍️ Escrevo bastante e sou o ser pensante por trás da Iogarhienmur
+- 🧦 Gosto de meias, e talvez eu pegue as suas
+- 🎁 Adoro dar presente (e ganhar cueca, não me julgue)
+- 🧄 Passo talco no pescoço pra afastar vampiros
+
+## Sobre mim
+
+- Tenho 1,83m e calço 45, ando sobre as águas
+- Durmo às 22:30, contra minha vontade; meu corpo só desliga
+- Às vezes esqueço de responder, mas me esforço pra isso não acontecer
+
+## Meus projetos atuais
+
+- 🌌 [Kebayrum](https://kebayrum.ai.studio/)
+- 🎙️ [Podcast Iogarhienmur](https://open.spotify.com/show/06rLXBatzIdMuepVYxWM8B)
